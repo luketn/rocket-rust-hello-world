@@ -29,7 +29,7 @@ fn home() {
     <body>
         <h1>Barcode API</h1>
         <p>Use the following URL to get a barcode:</p>
-        <p><a href=\"https://barcode-api.herokuapp.com/barcode/1234\">https://barcode-api.herokuapp.com/barcode/1234</a></p>
+        <p><a href=\"https://test-service-0t99.onrender.com/barcode/123\">https://test-service-0t99.onrender.com/barcode/123</a></p>
     </body>
 </html>
 ".into()))
